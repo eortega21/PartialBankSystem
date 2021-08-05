@@ -1,0 +1,7 @@
+﻿  account_info.cpp
+  cx_accounts.cpp
+  cx_main.cpp
+  testOOP.cpp
+C:\Users\d1nkz\source\repos\PartialBankSystem\testOOP\testOOP.cpp(53,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  testOOP.vcxproj -> C:\Users\d1nkz\source\repos\PartialBankSystem\x64\Debug\testOOP.exe
